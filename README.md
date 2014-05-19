@@ -18,4 +18,6 @@ Contains answers for all questions you might have regarding th SailfishOS Meetup
 5. Do you need more help?
 -> Yes! :) Everything that seems to be useful is fine. That might be a website or Mailinglist or contributers for social media accounts. It would be also nice to have a sponsored device that could be used for hands on during our meetups.
 
+6. How do I get involved into this github project? Just ask!  sailfishosberlin@ju-key.de
+
 tbc
